@@ -1,2 +1,2 @@
 # checkers-repo
-A two player game of checkers.
+A two-player game of checkers using pygame. 
