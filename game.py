@@ -1,5 +1,4 @@
 import pygame
-from PIL import Image
 from const import *
 from board import Board
 from dragger import Dragger
